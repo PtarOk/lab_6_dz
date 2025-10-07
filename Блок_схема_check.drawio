@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Страница — 1" id="znuGKAmU8M9IKftoyqtT">
+    <mxGraphModel dx="1388" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-34" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="767.51" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-35" value="&lt;h2&gt;&lt;font style=&quot;font-weight: normal; font-size: 15px;&quot; face=&quot;Lucida Console&quot;&gt;Подпрограмма check&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="732.21" y="80" width="190.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" target="Xz8Hp1L3UXyoYZG-oJhq-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827.5100000000002" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-37" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="767.51" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="Xz8Hp1L3UXyoYZG-oJhq-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="827.5150000000003" y="250.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-39" value="x, y;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767.51" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="Xz8Hp1L3UXyoYZG-oJhq-41" target="Xz8Hp1L3UXyoYZG-oJhq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-41" value="Точка входит в заштрихо-&lt;br&gt;ванную зону" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="197.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Xz8Hp1L3UXyoYZG-oJhq-44" target="Xz8Hp1L3UXyoYZG-oJhq-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Xz8Hp1L3UXyoYZG-oJhq-44" target="Xz8Hp1L3UXyoYZG-oJhq-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-44" value="Точка входит в зону?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740.51" y="250" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-45" value="&lt;h2&gt;&lt;font style=&quot;font-weight: normal; font-size: 15px;&quot; face=&quot;Lucida Console&quot;&gt;ДА&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700.51" y="260" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="Xz8Hp1L3UXyoYZG-oJhq-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818.75" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="997.75" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-47" value="Точка не входит в заштрихо-&lt;br&gt;ванную зону" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="898.75" y="340" width="197.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xz8Hp1L3UXyoYZG-oJhq-48" value="&lt;h2&gt;&lt;font style=&quot;font-weight: normal; font-size: 15px;&quot; face=&quot;Lucida Console&quot;&gt;НЕТ&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="914.51" y="260" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

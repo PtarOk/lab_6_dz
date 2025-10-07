@@ -19,4 +19,17 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md">
+      <Filter>Исходные файлы</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Блок_схема.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+    <Image Include="Блок_схема_check.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
