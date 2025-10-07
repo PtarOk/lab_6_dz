@@ -131,6 +131,7 @@
   <ItemGroup>
     <Image Include="Блок_схема.png" />
     <Image Include="Блок_схема_check.png" />
+    <Image Include="Задание_оси.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

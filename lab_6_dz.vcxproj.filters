@@ -31,5 +31,8 @@
     <Image Include="Блок_схема_check.png">
       <Filter>Исходные файлы</Filter>
     </Image>
+    <Image Include="Задание_оси.png">
+      <Filter>Исходные файлы</Filter>
+    </Image>
   </ItemGroup>
 </Project>
